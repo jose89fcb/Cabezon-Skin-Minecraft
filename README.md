@@ -18,4 +18,6 @@ Escribe el comando
 <br>
 <b>Resultado:</b>
 <br>
-<img src="https://i.imgur.com/YNyTKgQ.png">
+<img src="https://i.imgur.com/5geV0qQ.png">
+<br>
+<img src="https://i.imgur.com/YN6v1Pr.png">
