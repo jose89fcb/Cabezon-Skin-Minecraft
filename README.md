@@ -17,4 +17,5 @@ Escribe el comando
 <br>
 <br>
 <b>Resultado:</b>
+<br>
 <img src="https://i.imgur.com/YNyTKgQ.png">
