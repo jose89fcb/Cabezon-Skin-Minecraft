@@ -7,7 +7,7 @@ Escribe el comando
 
 !Skin + el nombre de de una cuenta premium
 
-Ejemplo:
+<b>Ejemplo:</b>
 <br>
 !Skin Tonacho
 <br>
