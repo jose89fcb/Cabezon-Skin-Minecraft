@@ -14,3 +14,7 @@ Escribe el comando
 !Skin chincheto77
 <br>
 !Skin Evilafm
+<br>
+<br>
+<b>Resultado:</b>
+<img src="https://i.imgur.com/YNyTKgQ.png">
