@@ -11,7 +11,7 @@ bot = commands.Bot(command_prefix='!', description="ayuda bot") #Comando
 bot.remove_command("help") # Borra el comando por defecto !help
 
 @bot.command()
-async def skin(ctx, *, SkinMinecraft):
+async def Skin(ctx, *, SkinMinecraft):
     await ctx.message.delete()
     await ctx.send(f"Generando Skin {SkinMinecraft}...", delete_after=0)
     time.sleep(3)
